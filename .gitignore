@@ -1,0 +1,52 @@
+# LaTex
+
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fls
+*.fdb_latexmk
+*.log
+*.lof
+*.lot
+*.toc
+*.synctex.gz
+*.run.xml
+*.out
+*.nav
+*.snm
+*.vrb
+*.xdv
+
+# latexmk
+latexmkrc
+
+
+# IDEs
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm / IntelliJ
+.idea/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+
+# Python
+
+# Logs
+*.log
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# Python compiled extensions
+*.so

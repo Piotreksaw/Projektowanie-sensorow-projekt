@@ -1,1 +1,2 @@
-# Projektowanie-sensorow-projekt
+# Projekt z przedmiotu "Projektowanie sensorów"
+
